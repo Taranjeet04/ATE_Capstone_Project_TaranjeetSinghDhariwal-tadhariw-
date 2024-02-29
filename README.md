@@ -2,7 +2,7 @@ Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
 Name : Taranjeet Singh Dhariwal
 Email : tadhariw@cisco.com
-Github : https://github.com/Taranjeet04/ATE_Capstone_Project_TaranjeetSinghDhariwal-tadhariw-cisco.com-
+Github : https://github.com/Taranjeet04/ATE_Capstone_Project_TaranjeetSinghDhariwal-tadhariw-
 
 Problem Statement and  Real-Time Scenario:
  Sporty Shoes has an e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
@@ -17,9 +17,9 @@ The following tasks outline the testing framework creation:
 1. Add additional code to the original project to add a REST API module. This module will have two API endpoints: 
 • Retrieve the list of all products in the store 
 • Retrieve the list of all registered users
-2. Create Selenium scripts to test all the pages in the web app 
-3. Do unit testing for all the backend classes and methods
-4. Create JMeter scripts to do load testing of the homepage and the product detail page
+2. Create Selenium scripts to test all the pages in the web app.
+3. Do unit testing for all the backend classes and methods.
+4. Created JMeter scripts to do load testing of the homepage and the product detail page.
 
 
 
